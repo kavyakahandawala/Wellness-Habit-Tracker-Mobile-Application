@@ -201,17 +201,6 @@ Sri Lanka Institute of Information Technology (SLIIT)
 
 ---
 
-## 🌟 Future Enhancements
-
-* Firebase Integration
-* Cloud Backup & Synchronization
-* Dark Mode Support
-* Habit Streak Tracking
-* Advanced Analytics Dashboard
-* AI-Based Wellness Recommendations
-* Google Fit Integration
-
----
 
 ## 📜 License
 
