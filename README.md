@@ -205,3 +205,7 @@ Sri Lanka Institute of Information Technology (SLIIT)
 ## 📜 License
 
 This project was developed for educational and academic purposes as part of the IT2010 – Mobile Application Development module at SLIIT.
+
+---
+
+💙 Build Better Habits, Feel Better Every Day.
