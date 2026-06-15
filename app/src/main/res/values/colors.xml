@@ -1,0 +1,41 @@
+<resources>
+    <!-- Primary Material Colors -->
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6D7CDF</color>
+    <color name="purple_700">#606DC7</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="blue_primary">#2196F3</color>
+    <color name="light_blue">#BBDEFB</color>
+    <color name="green">#4CAF50</color>
+    <color name="red_primary">#E53935</color>
+    <color name="red">#F44336</color>
+    <color name="orange">#FF9800</color>
+    <color name="yellow">#FFEB3B</color>
+
+    <!-- Backgrounds -->
+    <color name="background_light">#F5F5F5</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="progress_background">#E0E0E0</color>
+
+    <!-- Text colors -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="dark_text">#1F1F1F</color>
+    <color name="secondary_text">#333333</color>
+    <color name="hint_text">#757575</color>
+
+    <!-- Accent / Status Colors -->
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FFC107</color>
+    <color name="error">#F44336</color>
+    <color name="info">#2196F3</color>
+
+    <color name="gray">#9E9E9E</color>
+
+
+    <!-- Optional: additional UI colors -->
+    <color name="divider">#BDBDBD</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="overlay">#66000000</color>
+</resources>
