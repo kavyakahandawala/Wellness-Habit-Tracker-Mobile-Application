@@ -1,4 +1,4 @@
-# 🌿 Wellness – Daily Habit & Mood Tracker with Hydration Reminders
+# 🌿 Healthplus – Daily Habit & Mood Tracker with Hydration Reminders
 
 <p align="center">
   <b>Empowering healthier lifestyles through habit building, emotional awareness, and daily wellness tracking.</b>
@@ -8,11 +8,11 @@
 
 ## 📱 Overview
 
-**Wellness** is an Android mobile application developed using **Kotlin** in **Android Studio** to help users maintain a balanced and healthy lifestyle.
+**Healthplus** is an Android mobile application developed using **Kotlin** in **Android Studio** to help users maintain a balanced and healthy lifestyle.
 
 The application combines habit tracking, mood journaling, hydration reminders, and wellness progress monitoring into a single platform, enabling users to build positive routines and improve their overall well-being.
 
-Designed with a clean and user-friendly interface, Wellness encourages consistency, self-reflection, and healthy daily habits through simple yet effective tools.
+Designed with a clean and user-friendly interface, Healthplus encourages consistency, self-reflection, and healthy daily habits through simple yet effective tools.
 
 ---
 
@@ -139,7 +139,7 @@ Stored data includes:
 
 ## 🎯 Objectives
 
-The Wellness application aims to:
+The Healthplus application aims to:
 
 * Promote healthy daily routines
 * Improve emotional awareness
