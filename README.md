@@ -201,18 +201,11 @@ Sri Lanka Institute of Information Technology (SLIIT)
 
 ---
 
-## 🌟 Future Enhancements
-
-* Firebase Integration
-* Cloud Backup & Synchronization
-* Dark Mode Support
-* Habit Streak Tracking
-* Advanced Analytics Dashboard
-* AI-Based Wellness Recommendations
-* Google Fit Integration
-
----
 
 ## 📜 License
 
 This project was developed for educational and academic purposes as part of the IT2010 – Mobile Application Development module at SLIIT.
+
+---
+
+💙 Build Better Habits, Feel Better Every Day.
